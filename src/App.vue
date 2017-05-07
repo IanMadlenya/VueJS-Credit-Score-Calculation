@@ -24,15 +24,6 @@
       handleKredi(newobj) {
         this.kredi = [];
         this.kredi = newobj;
-        /*
-        for (var i = 0; i < newobj.taksitSayisi; i++) {
-          this.kredi[i] = newobj;
-        }
-        for (let j = 1; j < newobj.taksitSayisi; j++) {
-          this.kredi[j].kalanBorc = this.kredi[j].toplamKredi - (this.kredi[j].faizliTaksitMiktar * (j));
-          console.log(this.kredi[j].kalanBorc);
-        }*/
-        //Tüm eksiltmeyi yazıyor ancak son değeri bind ediyor.
       }
     },
     created() {
