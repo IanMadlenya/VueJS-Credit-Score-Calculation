@@ -1,0 +1,13 @@
+.search .values {
+  margin-top: 20px;
+  padding: 10px;
+  width: 200px;
+  border-radius: 10px;
+  border: 1px solid black; }
+
+.search button {
+  padding: 10px;
+  width: 100px;
+  border-radius: 10px;
+  background-color: #60e9ff;
+  color: black; }
