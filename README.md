@@ -1,9 +1,37 @@
-# kredhesap
 
-> A Vue.js project
+
+
+## A vehicle credit calculation application using VueJS.
+----------
+``` bash
+The values entered are interchanging with each other. 
+
+ # (It is prevented from entering inconsistent data on this value.)
+```
+![Textbox Changing](https://media.giphy.com/media/3ohzdYNVH28kxTtAkM/giphy.gif)
+
+
+----------
+
+``` bash
+Payment account is made according to new or old car status. 
+
+At the end of the calculation:
+
+ - Total Credit
+ - Monthly payment with interest
+ - Interest free monthly payment
+ - Amount of interest
+ - Amount of debt left per month
+```
+	
+![Credit](https://media.giphy.com/media/xUPGcLHDlQNTrKs8Fi/giphy.gif)
+
+
+----------
+
 
 ## Build Setup
-
 ``` bash
 # install dependencies
 npm install
@@ -15,4 +43,5 @@ npm run dev
 npm run build
 ```
 
-For detailed explanation on how things work, consult the [docs for vue-loader](http://vuejs.github.io/vue-loader).
+
+
