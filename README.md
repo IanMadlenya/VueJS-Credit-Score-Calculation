@@ -2,9 +2,11 @@
 
 
 ## A vehicle credit calculation application using VueJS.
-You can try project : http://okandavut.com/credit-score/
 ----------
+Try : http://okandavut.com/credit-score/
 ``` bash
+
+
 The values entered are interchanging with each other. 
 
  # (It is prevented from entering inconsistent data on this value.)
