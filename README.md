@@ -3,7 +3,7 @@
 
 ## A vehicle credit calculation application using VueJS.
 ----------
-Try : http://okandavut.com/credit-score/
+Try : http://mrokt.github.io/credit-score/
 ``` bash
 
 
